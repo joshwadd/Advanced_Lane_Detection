@@ -28,11 +28,11 @@ The processing pipeline used for the lane detection and identification of lane p
 
 Code for the camera calibration stage can be found with the `CameraCalibration` class in`Code/calibration.py`. 
 
-Any camera using a lens to obtain a 2D image in a 3D environment can produce both radial and tangential distortions in the obtained image. This can change the apprent shape size and location of objec
+Any camera using a lens to obtain a 2D image in a 3D environment can produce both radial and tangential distortions in the obtained image. This can change the apprent shape size and location of object
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODY4OTk5NjNdfQ==
+eyJoaXN0b3J5IjpbMTQyNzU0MzY1OV19
 -->
