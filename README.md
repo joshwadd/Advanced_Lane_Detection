@@ -24,9 +24,9 @@ The processing pipeline used for the lane detection and identification of lane p
 5.  **Fit Polynomial** : A second order polynomial model is fit to through the pixels associated with the left and right lane lines.
 6. **Measuring lane parameters** : The model fit through the lane lines can be used to calculate the radius of curvature of the lane, and the position of the car in the lane.
 
-## Camera Cali
+## Camera Calibration
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjkwMTU5NV19
+eyJoaXN0b3J5IjpbLTMwODA1MTc2NF19
 -->
