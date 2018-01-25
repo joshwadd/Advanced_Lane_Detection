@@ -19,11 +19,11 @@ The processing pipeline used for the lane detection and identification of lane p
 
 1. **Camera calibration** :  Use of imaging hardware in practice often produces distortions in the obtained images that can change the perceived location and size of objects in the image. For accurately detecting and then measuring the properties of the lane as it appears in the real world, this distortion must be corrected for. and removed.
 2. **Edge detection** : Pixels associated with the lane lines are identified in the image using gradient and colour space transforms and returned via a binary mask image of these pixels.
-3. **Perspective Transform** : 
+3. **Perspective Transform** : The perspective of the image
 5. **Line detection** :
 6. **Measuring lane parameters** :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODUzNjc4XX0=
+eyJoaXN0b3J5IjpbMjM3ODkzOTI0XX0=
 -->
