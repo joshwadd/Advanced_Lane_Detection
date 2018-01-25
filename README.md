@@ -21,9 +21,9 @@ The processing pipeline used for the lane detection and identification of lane p
 2. Edge detection :
 3. Perspective Transform :
 4. Line detection:
-5. 
+5. Lane
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Mjk1Mzc1MF19
+eyJoaXN0b3J5IjpbNTM3OTg5ODU0XX0=
 -->
