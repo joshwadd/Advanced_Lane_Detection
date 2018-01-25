@@ -6,7 +6,7 @@ This project builds and algorithmic pipeline of computer vision techniques to de
 
 | File                                | Description                                                                        |
 | ----------------------------------- | ---------------------------------------------------------------------------------- |
-| `Code/camera.py`      | Implements camera calibration based on the set of calibration images. |
+| `Code/ca.py`      | Implements camera calibration based on the set of calibration images. |
 | `source/lanetracker/tracker.py`     | Implements lane tracking by applying a processing pipeline to consecutive frames in a video. |
 | `source/lanetracker/gradients.py`   | Set of edge-detecting routines based on gradients and color. |
 | `source/lanetracker/perspective.py` | Set of perspective transformation routines. |
@@ -17,5 +17,5 @@ This project builds and algorithmic pipeline of computer vision techniques to de
 | `source/vehicletracker/utility.py`  | Set of convenient logging routines. |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzY5NDc3MDJdfQ==
+eyJoaXN0b3J5IjpbMTA1NTIyODczOV19
 -->
