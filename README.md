@@ -8,12 +8,12 @@ This project builds and algorithmic pipeline of computer vision techniques to de
 | ----------------------------------- | ---------------------------------------------------------------------------------- |
 | `Code/calibration.py`      | `CameraCalibration` class used to remove any distortions in the image associated with the imaging hardware. |
 | `Code/edge_detection.py`     | Set of gradient and colour space transformation routines used to detect pixels associated with lane lines. |
-| `Code/perspective.py`   | `PerspectiveTransformation` class to transform the perspective of the time to a overhead lane view. |
+| `Code/perspective.py`   | `PerspectiveTransformation` class to transform the perspective of the ti to a overhead lane view. |
 | `Code/line.py` | `Line` class to represent a single lane line |
 | `Code/window.py`        | `Window` class to represent a single scanning window used to detect pixels likely associated with lane lines.|
 | `Code/lane_detection.py`      | `LaneDectection` class implementing a lane detection processing pipeline to a consecutive series of frames from a video. |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyMDYyODg5XX0=
+eyJoaXN0b3J5IjpbMjY5NjY5Mzc3XX0=
 -->
