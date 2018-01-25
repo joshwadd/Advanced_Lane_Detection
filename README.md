@@ -28,11 +28,11 @@ The processing pipeline used for the lane detection and identification of lane p
 
 Code for the camera calibration stage can be found with the `CameraCalibration` class in`Code/calibration.py`. 
 
-Any camera using a lens to ocan produce both radial and tangential distortions in the obtained image,
+Any camera using a lens to obtain a can produce both radial and tangential distortions in the obtained image,
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Njc3ODg3Ml19
+eyJoaXN0b3J5IjpbMTEwMzI3MjU5NV19
 -->
