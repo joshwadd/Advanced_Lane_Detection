@@ -21,10 +21,10 @@ The processing pipeline used for the lane detection and identification of lane p
 2. **Edge detection** : Pixels associated with the lane lines are identified in the image using gradient and colour space transforms and returned via a binary mask image of these pixels.
 3. **Perspective Transform** : The perspective of the binary image is transformed to give an over head 'birdseye' view of the lane lines. This makes it easier to detect and the lane in the following steps.
 4. **Line detection** : With an overhead perspective of the binary image of lane pixels, the pixels associated with the left and right lane lines are detected. This can be done initially by measuring a histogram of the pixel distribution in the overhead view and fitting a series of sliding windows. For future frames this can be done by searching in regions close to previously detected lines.
-5.  **Fit Polynomial** : A second order polynomial can be fit to through the pixels  
+5.  **Fit Polynomial** : A second order polynomial can be fit to through the pixels 
 6. **Measuring lane parameters** :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODc2NDI0OF19
+eyJoaXN0b3J5IjpbLTQ2ODM5ODMwXX0=
 -->
