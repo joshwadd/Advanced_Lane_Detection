@@ -17,9 +17,10 @@ This project builds and algorithmic pipeline of computer vision techniques to de
 
 The processing pipeline used for the lane detection and identification of lane properties is composed of the following key steps. These are further outlined in the subsequent sections below.
 
-#### Camera calibration
+1. Camera calibration : 
+2. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4NTM2MzQwXX0=
+eyJoaXN0b3J5IjpbLTEyODI5ODcxNV19
 -->
