@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-This project builds and algorithmic pipeline of computer vision techniques to detect r
+This project builds and algorithmic pipeline of computer vision techniques to detect road lanes from the front facing camera on an autonomous car, and the identify 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDczNTQ2MzddfQ==
+eyJoaXN0b3J5IjpbLTIwMDI5MjU0MjldfQ==
 -->
