@@ -6,16 +6,14 @@ This project builds and algorithmic pipeline of computer vision techniques to de
 
 | File                                | Description                                                                        |
 | ----------------------------------- | ---------------------------------------------------------------------------------- |
-| `Code/calibration.py`      | Implements camera calibration based on the set of calibration images. |
+| `Code/calibration.py`      | Class implementing camera calibration based on the set of calibration images. |
 | `Code/edge_detection.py`     | Implements lane tracking by applying a processing pipeline to consecutive frames in a video. |
 | `Code/perspective.py`   | Set of edge-detecting routines based on gradients and color. |
 | `Code/line.py` | Set of perspective transformation routines. |
 | `Code/window.py`        | `Line` class representing a single lane boundary line. |
-| `Code/window.py`      | `Window` class representing a scanning window used to detect points likely to represent lines. |
-| `source/vehicletracker/features.py` | Implements feature extraction pipeline for vehicle tracking. |
-| `source/vehicletracker/tracker.py`  | Implements surrounding vehicles tracking by applying a processing pipeline to consecutive frames in a video. |
-| `source/vehicletracker/utility.py`  | Set of convenient logging routines. |
+| `Code/lane_detection.py`      | `Window` class representing a scanning window used to detect points likely to represent lines. |
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTA0OTM3Ml19
+eyJoaXN0b3J5IjpbNDczNjQ5NTk0XX0=
 -->
