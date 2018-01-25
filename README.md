@@ -15,7 +15,7 @@ This project builds and algorithmic pipeline of computer vision techniques to de
 
 ## Lane Detection Pipeline
 
-The processing pipi
+The processing pipeline 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTExMTA4Ml19
+eyJoaXN0b3J5IjpbNzQyMDc3ODM4XX0=
 -->
