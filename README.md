@@ -15,7 +15,7 @@ This project builds and algorithmic pipeline of computer vision techniques to de
 
 ## Lane Detection Pipeline
 
-The processing pipeline used for the lane detection and identification of lane properties is composed of the following key steps. These are fru
+The processing pipeline used for the lane detection and identification of lane properties is composed of the following key steps. These are further 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzE2OTMxNzBdfQ==
+eyJoaXN0b3J5IjpbLTExNzgxODc4NzFdfQ==
 -->
