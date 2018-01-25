@@ -11,9 +11,9 @@ This project builds and algorithmic pipeline of computer vision techniques to de
 | `Code/perspective.py`   | `PerspectiveTransformation` class to transform the perspective of the time to a overhead lane view. |
 | `Code/line.py` | `Line` class to represent a single lane line |
 | `Code/window.py`        | `Window` class to represent a single scanning window used to detect pixels likely associated with lane lines.|
-| `Code/lane_detection.py`      | `LaneDectection` class implementing a processing pi. |
+| `Code/lane_detection.py`      | `LaneDectection` class implementing a processing pipelo. |
  Implements lane tracking by applying a processing pipeline to consecutive frames in a video.
 `Window` class representing a scanning window used to detect points likely to represent lines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njc1MDYwODBdfQ==
+eyJoaXN0b3J5IjpbLTE0MjYzNTczNl19
 -->
