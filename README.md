@@ -22,9 +22,9 @@ The processing pipeline used for the lane detection and identification of lane p
 3. **Perspective Transform** : The perspective of the binary image is transformed to give an over head 'birdseye' view of the lane lines. This makes it easier to detect and the lane in the following steps.
 4. **Line detection** : With an overhead perspective of the binary image of lane pixels, the pixels associated with the left and right lane lines are detected. This can be done initially by measuring a histogram of the pixel distribution in the overhead view and fitting a series of sliding windows. For future frames this can be done by searching in regions close to previously detected lines.
 5.  **Fit Polynomial** : A second order polynomial model is fit to through the pixels associated with the left and right lane lines.
-6. **Measuring lane parameters** : The model fit through the
+6. **Measuring lane parameters** : The model fit through the lane lines can be used to calculate the radius of curvature of the lane, and the position of the car in the lane.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzg1MTMxXX0=
+eyJoaXN0b3J5IjpbLTMzNDExNDAzXX0=
 -->
