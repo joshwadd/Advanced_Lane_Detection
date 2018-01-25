@@ -11,11 +11,11 @@ This project builds and algorithmic pipeline of computer vision techniques to de
 | `Code/perspective.py`   | Set of edge-detecting routines based on gradients and color. |
 | `Code/line.py` | Set of perspective transformation routines. |
 | `Code/window.py`        | `Line` class representing a single lane boundary line. |
-| `source/window.py`      | `Window` class representing a scanning window used to detect points likely to represent lines. |
+| `swindow.py`      | `Window` class representing a scanning window used to detect points likely to represent lines. |
 | `source/vehicletracker/features.py` | Implements feature extraction pipeline for vehicle tracking. |
 | `source/vehicletracker/tracker.py`  | Implements surrounding vehicles tracking by applying a processing pipeline to consecutive frames in a video. |
 | `source/vehicletracker/utility.py`  | Set of convenient logging routines. |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI2MTMwNDJdfQ==
+eyJoaXN0b3J5IjpbLTE1MDA2ODg4MTldfQ==
 -->
