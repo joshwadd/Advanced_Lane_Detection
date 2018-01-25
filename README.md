@@ -8,12 +8,12 @@ This project builds and algorithmic pipeline of computer vision techniques to de
 | ----------------------------------- | ---------------------------------------------------------------------------------- |
 | `Code/calibration.py`      | Class implementing camera calibration based on the set of calibration images. |
 | `Code/edge_detection.py`     | Set of gradient and colour space transformation routines to detect pixels associated with lane lines. |
-| `Code/perspective.py`   | Class to implement a perspective transformation to an overhead lane view. |
-| `Code/line.py` | Class to represent a single lane line |
+| `Code/perspective.py`   | `PerspectiveTransformation` class to implement a perspective transformation to an overhead lane view. |
+| `Code/line.py` | `Line` class to represent a single lane line |
 | `Code/window.py`        | Class to repre|
 | `Code/lane_detection.py`      | `Window` class representing a scanning window used to detect points likely to represent lines. |
  Implements lane tracking by applying a processing pipeline to consecutive frames in a video.
 `Window` class representing a scanning window used to detect points likely to represent lines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjk4NzkyMl19
+eyJoaXN0b3J5IjpbLTE2MTQxNjA0ODldfQ==
 -->
