@@ -26,9 +26,13 @@ The processing pipeline used for the lane detection and identification of lane p
 
 ## Camera Calibration
 
+Code for the camera calibration stage can be found with the `CameraCalibration` class in`Code/calibration.py`. 
+
+Any camera using a lens can produce distortions in the 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA1NTI1Nl19
+eyJoaXN0b3J5IjpbLTEyNjA3MzQwOTVdfQ==
 -->
