@@ -13,7 +13,9 @@ This project builds and algorithmic pipeline of computer vision techniques to de
 | `Code/window.py`        | `Window` class to represent a single scanning window used to detect pixels likely associated with lane lines.|
 | `Code/lane_detection.py`      | `LaneDectection` class implementing a lane detection processing pipeline to a consecutive series of frames from a video. |
 
-## Lane Detection
+## Lane Detection Pipeline
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0ODc4NDk2XX0=
+eyJoaXN0b3J5IjpbLTE5NDI5OTYyNDJdfQ==
 -->
