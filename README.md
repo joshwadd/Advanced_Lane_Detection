@@ -9,7 +9,7 @@ This project builds and algorithmic pipeline of computer vision techniques to de
 | `Code/calibration.py`      | `CameraCalibration` class used to remove any distortions in the image associated with the imaging hardware. |
 | `Code/edge_detection.py`     | Set of gradient and colour space transformation routines used to detect pixels associated with lane lines. |
 | `Code/perspective.py`   | `PerspectiveTransformation` class to transform the perspective of the front facing camera image to a overhead lane view. |
-| `Code/line.py` | `Line` class to represent a single lane line |
+| `Code/line.py` | `Line` class to represent a single lane line |dete
 | `Code/window.py`        | `Window` class to represent a single scanning window used to detect pixels likely associated with lane lines.|
 | `Code/lane_detection.py`      | `LaneDectection` class implementing a lane detection processing pipeline to a consecutive series of frames from a video. |
 
@@ -19,11 +19,11 @@ The processing pipeline used for the lane detection and identification of lane p
 
 1. **Camera calibration** :  Use of imaging hardware in practice often produces distortions in the obtained images that can change the perceived location and size of objects in the image. For accurately detecting and then measuring the properties of the lane as it appears in the real world, this distortion must be corrected for. and removed.
 2. **Edge detection** : Pixels associated with the lane lines are identified in the image using gradient and colour space transforms and returned via a binary mask image of these pixels.
-3. **Perspective Transform** : The perspective of the image is transformed to give an over head 'birdseye' view of the lane lines. This makes
+3. **Perspective Transform** : The perspective of the image is transformed to give an over head 'birdseye' view of the lane lines. This makes it easier to detect 
 5. **Line detection** :
 6. **Measuring lane parameters** :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA0NTYxODZdfQ==
+eyJoaXN0b3J5IjpbLTIwMTU3NDg4MThdfQ==
 -->
