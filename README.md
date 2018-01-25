@@ -30,7 +30,7 @@ Code for the camera calibration stage can be found with the `CameraCalibration` 
 
 Any camera using a lens to obtain a 2D image in a 3D environment can produce both radial and tangential distortions in the obtained image. This can change the apparent shape, size and location of objects in the image, and thus must be removed for accurate and useful visual information to be extracted.
 
-The distortions can be quantified and then removed by comparing multiple distorted images of a simple known object
+The distortions can be quantified and then removed by comparing multiple distorted images of a simple object with known spatial properties.
 
 
 
@@ -38,5 +38,5 @@ The distortions can be quantified and then removed by comparing multiple distort
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTg2NzA2MjJdfQ==
+eyJoaXN0b3J5IjpbLTY3Nzg0NDNdfQ==
 -->
