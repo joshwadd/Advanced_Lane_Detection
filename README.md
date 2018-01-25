@@ -20,9 +20,10 @@ The processing pipeline used for the lane detection and identification of lane p
 1. Camera calibration : 
 2. Edge detection :
 3. Perspective Transform :
-4. 
+4. Line detection:
+5. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4MjA5Mjc4XX0=
+eyJoaXN0b3J5IjpbLTg1Mjk1Mzc1MF19
 -->
