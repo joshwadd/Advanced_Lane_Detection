@@ -2,9 +2,8 @@
 
 ## Project Overview
 
-This project aims to design a pipeline of computer vision t
-
+This project builds and algorithmic pipeline of computer vision techniques to d
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU2MzQwNjddfQ==
+eyJoaXN0b3J5IjpbLTk2NTE0MDY2OF19
 -->
