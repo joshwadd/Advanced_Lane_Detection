@@ -172,7 +172,9 @@ The code to implement the perspective transform is contained within the `Perspec
 
 ## Finding the lines
 
+Having identified the pixels assoiated with lane lines in this imag
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjUwMzA4MV19
+eyJoaXN0b3J5IjpbMTU2OTMxMjgzMl19
 -->
