@@ -36,6 +36,7 @@ OpenCV has a set of routines for the quantification and then removal of camera d
 
 ```python
 #Prepare the object points belonging to the chess board corners
+
 corner_points = np.zeros((nx*ny,3), np.float32)
 corner_points[:,:,2] = np.mgrid[0:nx, 0:ny].T.reshape(-1,2)
 ```
@@ -46,5 +47,5 @@ For each calibration image the location of the chess board corners must be found
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2MDA4NzhdfQ==
+eyJoaXN0b3J5IjpbMzUzOTk4ODEyXX0=
 -->
