@@ -97,10 +97,10 @@ return colour_mask
 
 Original unprocessed image
 
-![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/edge_detect_orig.png?raw=true)
+![Original Image](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/edge_detect_orig.png?raw=true)
 
 ![White]
 ### Track 2: Gradient Filtering
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDQwNjE5Nl19
+eyJoaXN0b3J5IjpbMjA4MDA0NjQwMF19
 -->
