@@ -90,9 +90,11 @@ The image is first converted into HSV space using the OpenCV function `cv2.cvtCo
 Any image can then be filtered by colour according to a lower and upper threshold in HSV space
 
 ```python
-def colour_thresh(image, thesh_min)
+def colour_thresh(image, thesh_min=np.array([0,0,0]), thresh_max=np.array([255,255,255])):
+colour_mask = cv
+
 ```
 ### Track 2: Gradient Filtering
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzc3MTQyNF19
+eyJoaXN0b3J5IjpbMTc2MTU2NDgyMl19
 -->
