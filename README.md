@@ -78,6 +78,8 @@ def undistort(self, image):
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/original.png?raw=true)![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/undistorted.png?raw=true)
 
 ## Edge Detection
+
+To identify the pixels belonging to the lane lines in the image combinations of gradient thres
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIzNzU1XX0=
+eyJoaXN0b3J5IjpbLTEwMjQ1MjA3ODhdfQ==
 -->
