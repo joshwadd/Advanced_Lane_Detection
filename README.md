@@ -91,10 +91,10 @@ Any image can then be filtered by colour according to a lower and upper threshol
 
 ```python
 def colour_thresh(image, thesh_min=np.array([0,0,0]), thresh_max=np.array([255,255,255])):
-colour_mask = cv2.inRnag
+colour_mask = cv2.inRa
 
 ```
 ### Track 2: Gradient Filtering
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMTgxNTIzXX0=
+eyJoaXN0b3J5IjpbMTI4NjkzODAyMl19
 -->
