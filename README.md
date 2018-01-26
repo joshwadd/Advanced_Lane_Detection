@@ -73,12 +73,12 @@ def undistort(self, image):
 
 
 
-![]() ![]()
+![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/original.png?raw=true) ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/original.png?raw=true)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzM0NTUwMzFdfQ==
+eyJoaXN0b3J5IjpbLTIxMjAxMDYwNjNdfQ==
 -->
