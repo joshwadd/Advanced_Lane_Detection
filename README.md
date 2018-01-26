@@ -154,7 +154,7 @@ Finally the binary masks from the two tracks are combined together to produce th
 
 ## Perspective Transformation
 
-To identify and fit polynomail models of curving lane
+To identify and fit polynomail models of curving lane lines 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0MTk4ODM2XX0=
+eyJoaXN0b3J5IjpbMTI5NzAwMTUwM119
 -->
