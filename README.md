@@ -102,10 +102,18 @@ Original unprocessed image
 
 The image is then filtered by a white and yellow colour mask in HSV space according to the following threshold parameters
 
-White: 
+```python
+#Set parametrs for yellow filtering in HSV
+    hsv_yellow_low = np.array([0, 100, 100])
+    hsv_yellow_high = np.array([50, 255, 255])
+
+    #Set parameters for white filtering in HSV
+    hsv_white_low = np.array([20, 0, 180])
+    hsv_white_high = np.array([255, 80, 255])
+```
 
 ![White](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/yellow_filter.png?raw=true)![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/white_filter.png?raw=true)
 ### Track 2: Gradient Filtering
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDM0NTM4OV19
+eyJoaXN0b3J5IjpbNDM1MTAwODA2XX0=
 -->
