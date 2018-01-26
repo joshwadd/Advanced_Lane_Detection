@@ -146,7 +146,8 @@ Computing the x and y gradients for the S and L image and the thresholding them 
 
 
 <p align="left">
-	<img  src=https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/grad_l_mask.png?raw=true"
+	<img  src="https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/grad_l_mask.png?raw=true" alt="some stupid title" />
+</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDQyNDE1MF19
+eyJoaXN0b3J5IjpbLTE5NTQ3NzAzNTldfQ==
 -->
