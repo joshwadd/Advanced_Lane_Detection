@@ -34,10 +34,14 @@ The distortions can be quantified and then removed by comparing multiple distort
 
 OpenCV has a set of routines for the quantification and then removal of camera distortion. First the coordinates of the chess board corners in 3D space are held in the variable `corner_points`. As the chess board will remain fixed in the same location in 3D space for each image this variable will remain the same for each calibration image.
 
+```python
+corner
+```
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI5NjIwODNdfQ==
+eyJoaXN0b3J5IjpbMTA4Mzk5MjM5OF19
 -->
