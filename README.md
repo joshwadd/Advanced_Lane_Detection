@@ -58,7 +58,7 @@ for image in calibration_image:
 	
 ```
 
-With the lists of object and image points it is now possible to compute the camera calibration matrix and distortion coeffi
+With the lists of object and image points it is now possible to compute the camera calibration matrix and distortion coeffeic
 
 
 
@@ -66,5 +66,5 @@ With the lists of object and image points it is now possible to compute the came
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzODQ5NDQ1XX0=
+eyJoaXN0b3J5IjpbMzMyMjE3Njc5XX0=
 -->
