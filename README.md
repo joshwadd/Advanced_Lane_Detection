@@ -45,7 +45,7 @@ For each calibration image the location of the chess board corners must be found
 
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/corner_detection.png?raw=true)
 
-
+This function is used on every calibration image 
 
 ```python
 obj_points = []
@@ -54,7 +54,7 @@ for image in calibration_image:
 	ret, corners = cv2.findChessboardCorners(image, (nx,ny), None)
 	if ret:
 		obj_points.append(corner_points)
-		img_points.append(corners~~strikethrough text~~)
+		img_points.append(corners)
 	
 ```
 
@@ -62,5 +62,5 @@ for image in calibration_image:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTQ5MzQxN119
+eyJoaXN0b3J5IjpbODYzNTQwNTc1XX0=
 -->
