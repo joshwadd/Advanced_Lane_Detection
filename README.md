@@ -64,12 +64,12 @@ With the lists of object and image points it is now possible to compute the came
 ```python
 ret, mtx, dist, rvecs, tvecs = cv2.calibrateCamera(obj_points, img_points, image_size, None, None)
 ```
-Once the calibration matrix and distortion coefficients are computed  distortions can be removed from images using
+Once the calibration matrix and distortion coefficients are computed, distortions can be removed from images using the `cv2.undistort` function.  This is implemented in the 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDAwNDA4Ml19
+eyJoaXN0b3J5IjpbLTE5NTQzMzE5NTBdfQ==
 -->
