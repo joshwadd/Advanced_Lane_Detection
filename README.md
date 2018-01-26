@@ -154,7 +154,7 @@ Finally the binary masks from the two tracks are combined together to produce th
 
 ## Perspective Transformation
 
-To identify and fit poly
+To identify and fit polynomai
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ0OTQxMDddfQ==
+eyJoaXN0b3J5IjpbMTA3Mzc2MTU1XX0=
 -->
