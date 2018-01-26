@@ -39,12 +39,11 @@ corner_points = np.zeros((nx*ny,3), np.float32)
 corner_points[:,:,2] = np.mgrid[0:nx, 0:ny].T.reshape(-1,2)
 ```
 
-For each calibration image the location of the chess board corners must be found. This can be done with the OpenCv function
-
+For each calibration image the location of the chess board corners must be found. This can be done with the OpenCv function `cv2.calibrateCamera()`
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY2MjY3MzBdfQ==
+eyJoaXN0b3J5IjpbMTczNTUxNjEwMl19
 -->
