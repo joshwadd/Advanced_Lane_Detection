@@ -136,7 +136,7 @@ def abs_sobel_thresh(img_channel, orient='x', sobel_kernel=3 , thresh_min=0, thr
 
 ```
 
-Computing the x and y gradients for the S and L image and the thresholding them according the the following parameters produces the following binary mask
+Computing the x and y gradients for the S and L image and the thresholding them according the the following parameters produces the following binary masks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDE4NjYxNV19
+eyJoaXN0b3J5IjpbLTY1ODU1MDE2XX0=
 -->
