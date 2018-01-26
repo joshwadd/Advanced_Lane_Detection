@@ -113,7 +113,10 @@ The image is then filtered by a white and yellow colour mask in HSV space accord
 ```
 
 ![White](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/yellow_filter.png?raw=true)![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/white_filter.png?raw=true)
+
 ### Track 2: Gradient Filtering
+
+In addtion the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1MTAwODA2XX0=
+eyJoaXN0b3J5IjpbMTY4MjQ1Njc1XX0=
 -->
