@@ -153,6 +153,8 @@ Finally the binary masks from the two tracks are combined together to produce th
 
 
 ## Perspective Transformation
+
+To identify and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDM3ODcyNF19
+eyJoaXN0b3J5IjpbMTA0NDQ2Mzc0NF19
 -->
