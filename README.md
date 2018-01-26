@@ -78,9 +78,9 @@ def undistort(self, image):
 https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/undistorted.png?raw=true
 <img src="https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/original.png?raw=true" alt="Drawing" style="width: 200px;"/>
 
-<img src="https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/original.png?raw=true" alt="Drawing" style="width: 200px;"/>
+<img src="https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/undistorted.png?raw=true" alt="Drawing" style="width: 200px;"/>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzE0NDUyOF19
+eyJoaXN0b3J5IjpbLTIxMzQ2Mzc0MjRdfQ==
 -->
