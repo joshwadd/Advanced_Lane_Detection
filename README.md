@@ -118,7 +118,7 @@ The image is then filtered by a white and yellow colour mask in HSV space accord
 
 The image is additionally converted into HLS space using the OpenCV function `cv2.cvtColor(image, cv2.COlOR_RGB2HLS)`.
 
-The gradie
+The gradients
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzE5NjkxOF19
+eyJoaXN0b3J5IjpbNDQ2MTQ2MjM3XX0=
 -->
