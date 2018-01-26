@@ -164,6 +164,8 @@ To identify and fit polynomials lines curving lanes it is useful to transform th
 | (570, 470) | (320,1 )     |   
 |  (722, 470)  |    (920, 1)  |
 
+
+![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/original_src.png?raw=true)![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/perspective_trans.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5NzEwMDA2XX0=
+eyJoaXN0b3J5IjpbLTczODM5OTY0MV19
 -->
