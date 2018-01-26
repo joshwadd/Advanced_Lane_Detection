@@ -160,10 +160,10 @@ To identify and fit polynomials lines curving lanes it is useful to transform th
 | Source     | Destination      | 
 | ------------- |:-------------:| 
 | (220, 720)    | (320, 720) | 
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |   
+| (1110, 720)      | (920, 720)     |   
+| (570, 470) | (320,1 )     |   
 |               |               |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0MzA2MzUxXX0=
+eyJoaXN0b3J5IjpbLTQ0MjcxMTc0Ml19
 -->
