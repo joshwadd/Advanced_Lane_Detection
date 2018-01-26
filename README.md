@@ -79,7 +79,7 @@ def undistort(self, image):
 
 ## Edge Detection
 
-To identify the pixels belonging to the lane lines in the image, combinations of gradient thresholding and colour space threshholding techniques are used. All of the routines and the edge dection pipeline can be found in the `edge_detection.py` file
+To identify the pixels belonging to the lane lines in the image, combinations of gradient thresholding and colour space threshholding techniques are used. All of the routines and the code associated with the edge dection processing  can be found in the `edge_detection.py` file.
 
 This is done by breaking the edge detecting process into two tracks. The first filters the image by thresholding colours in HSV space, the second filters according to gradients in HLS space. Finally these two tracks are combined together at the end. This makes the edge detection pipeline robust to many types of road conditions and potential occlusion in the image such as shadows and adverse lighting conditions.
 
@@ -147,5 +147,5 @@ Computing the x and y gradients for the S and L image channels, thresholding the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTEyNDMxNV19
+eyJoaXN0b3J5IjpbLTI3NTUyNTc5MF19
 -->
