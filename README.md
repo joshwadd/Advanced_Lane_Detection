@@ -58,7 +58,7 @@ for image in calibration_image:
 	
 ```
 
-With the lists of object and image points it is now possible to compute the camera calibration matrix and distortion coefficents using the 
+With the lists of object and image points it is now possible to compute the camera calibration matrix and distortion coefficients using the function `cv2.calibrateCamera()`. 
 
 
 
@@ -66,5 +66,5 @@ With the lists of object and image points it is now possible to compute the came
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzU3NTMwMV19
+eyJoaXN0b3J5IjpbMTY3MzUxNzQ4Nl19
 -->
