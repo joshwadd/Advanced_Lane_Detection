@@ -36,7 +36,7 @@ OpenCV has a set of routines for the quantification and then removal of camera d
 
 ```python
 corner_points = np.zeros((nx*ny,3), np.float32)
-corner_points[:,:,2] = np.mgrid
+corner_points[:,:,2] = np.mgrid[]
 ```
 
 
@@ -44,5 +44,5 @@ corner_points[:,:,2] = np.mgrid
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDg5ODE3MF19
+eyJoaXN0b3J5IjpbMzY4OTYxMjQ0XX0=
 -->
