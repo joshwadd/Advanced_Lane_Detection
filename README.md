@@ -162,8 +162,8 @@ To identify and fit polynomials lines curving lanes it is useful to transform th
 | (220, 720)    | (320, 720) | 
 | (1110, 720)      | (920, 720)     |   
 | (570, 470) | (320,1 )     |   
-|               |               |
+|  (722, 470)  |    (920, 1)  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjcxMTc0Ml19
+eyJoaXN0b3J5IjpbNjY5NzEwMDA2XX0=
 -->
