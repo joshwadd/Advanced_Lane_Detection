@@ -49,12 +49,12 @@ obj_points = []
 img_points = []
 
 for image in calibration_image:
-	ret, co
+	ret, corne
 ```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ1NzQyMzRdfQ==
+eyJoaXN0b3J5IjpbLTQ5NjgwMDIxM119
 -->
