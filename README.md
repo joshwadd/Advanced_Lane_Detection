@@ -43,7 +43,6 @@ corner_points[:,:,2] = np.mgrid[0:nx, 0:ny].T.reshape(-1,2)
 
 For each calibration image the location of the chess board corners must be found. This can be done with the OpenCv function `cv2.findChessboardCorners()` and is used in the code as follows.
 
-
 ```python
 obj_points = []
 img_points = []
@@ -51,7 +50,7 @@ for image in calibration_image:
 	ret, corners = cv2.findChessboardCorners(image, (nx,ny), None)
 	if ret:
 		obj_points.append(corner_points)
-		img_points.append(corners)
+		img_points.append(corners~~strikethrough text~~)
 	
 ```
 
@@ -59,5 +58,5 @@ for image in calibration_image:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1OTE5MTM3XX0=
+eyJoaXN0b3J5IjpbMTQ1MTExMDU1M119
 -->
