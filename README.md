@@ -85,7 +85,7 @@ This is done by breaking the edge detecting process into two tracks. The first f
 
 ### Track 1: Colour Mask Filtering
 
-### Track 2:
+### Track 2: Gradient Filtering
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTQwNDQ4Nl19
+eyJoaXN0b3J5IjpbLTE2NTQzNzU1NTJdfQ==
 -->
