@@ -154,7 +154,7 @@ Finally the binary masks from the two tracks are combined together to produce th
 
 ## Perspective Transformation
 
-To identify and 
+To identify and fit po
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDQ2Mzc0NF19
+eyJoaXN0b3J5IjpbNTUzMDQ5MTcwXX0=
 -->
