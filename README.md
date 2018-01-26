@@ -136,7 +136,7 @@ def abs_sobel_thresh(img_channel, orient='x', sobel_kernel=3 , thresh_min=0, thr
 
 ```
 
-Computing the x and y gradients for the image and the thresholding them
+Computing the x and y gradients for the S and L image and the thresholding them accor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDIwODMyMzJdfQ==
+eyJoaXN0b3J5IjpbMjUxMTQyMjc4XX0=
 -->
