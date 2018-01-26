@@ -62,7 +62,7 @@ With the lists of object and image points it is now possible to compute the came
 
 
 ```python
-ret, mtx, dist, rvecs, tvecs = cv2.calibrateCamera(obj_points, )
+ret, mtx, dist, rvecs, tvecs = cv2.calibrateCamera(obj_points, img_points, image_size, None, None)
 
 ```
 
@@ -71,5 +71,5 @@ ret, mtx, dist, rvecs, tvecs = cv2.calibrateCamera(obj_points, )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNDMwMjI0XX0=
+eyJoaXN0b3J5IjpbLTE3MTU2NTYzMl19
 -->
