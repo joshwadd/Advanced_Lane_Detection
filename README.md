@@ -147,7 +147,7 @@ Computing the x and y gradients for the S and L image channels, thresholding the
 
 ### Combining tracks
 
-Finally the binary masks from the two tracks are combined together to produce the final binary image mask detecting the road lane lines. Its useful to visualise the binary mask in RBG space where the colour mask is plotting on the green channel and the gradient mask on the b
+Finally the binary masks from the two tracks are combined together to produce the final binary image mask detecting the road lane lines. Its useful to visualise the binary mask in RBG space where the colour mask is plotting on the green channel and the gradient mask on the blue.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQzMzUwOTNdfQ==
+eyJoaXN0b3J5IjpbMTc0MzY5MTI4OV19
 -->
