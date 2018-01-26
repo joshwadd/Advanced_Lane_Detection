@@ -150,6 +150,9 @@ Computing the x and y gradients for the S and L image channels, thresholding the
 Finally the binary masks from the two tracks are combined together to produce the final binary image mask detecting the road lane lines. Its useful to visualise the binary mask in RBG space where the colour mask is plotting on the green channel and the gradient mask on the blue. (note: in reality the algorithm only uses a single channel binary mask, this is just a useful visualisation technique)
 
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/final_binary_mask.png?raw=true)
+
+
+## Perspective Transformation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTczMjcxMDNdfQ==
+eyJoaXN0b3J5IjpbLTUwMDM3ODcyNF19
 -->
