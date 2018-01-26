@@ -145,7 +145,9 @@ Computing the x and y gradients for the S and L image channels, thresholding the
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/gradient_l_mask.png?raw=true)![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/gradient_s_mask.png?raw=true)
 
 
+### Combining tracks
 
+Finally the binary masks from the two tracks are combined together to produce the final binary image mask detecting 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTUyNTc5MF19
+eyJoaXN0b3J5IjpbOTQxODEzODMyXX0=
 -->
