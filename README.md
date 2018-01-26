@@ -170,7 +170,9 @@ The code to implement the perspective transform is contained within the `Perspec
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/original_src.png?raw=true)![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/perspective_trans.png?raw=true)
 
 
-## 
+## Finding the lines
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyNTI0ODk2XX0=
+eyJoaXN0b3J5IjpbLTExMjUwMzA4MV19
 -->
