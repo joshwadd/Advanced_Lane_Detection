@@ -159,11 +159,11 @@ To identify and fit polynomials lines curving lanes it is useful to transform th
 
 | Source     | Destination      | 
 | ------------- |:-------------:| 
-| (220, 720)    | (320,  | 
+| (220, 720)    | (320, 720 | 
 | col 2 is      | centered      |   
 | zebra stripes | are neat      |   
 |               |               |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY5MzU3NDFdfQ==
+eyJoaXN0b3J5IjpbLTE0NjAwMTUzMjhdfQ==
 -->
