@@ -68,13 +68,15 @@ Once the calibration matrix and distortion coefficients are computed, distortion
 
 ```python
 def undistort(self, image):
-	return cv2.undistort(image, self.mtx, self.dist,)
+	return cv2.undistort(image, self.mtx, self.dist, None, self.mtx)
 ```
 
 
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDE3OTUyNF19
+eyJoaXN0b3J5IjpbMTM2NzU3OTI1MV19
 -->
