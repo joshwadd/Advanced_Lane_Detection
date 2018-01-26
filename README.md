@@ -100,7 +100,7 @@ Original unprocessed image
 ![Original Image](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/edge_detect_orig.png?raw=true)
 
 
-The image is then filtered by a white and yellow colour mask in HSV space according to the following threshold parameters
+The image is then filtered by a white and yellow colour mask in HSV space according to the following threshold parameters and produces the following binary masks
 
 ```python
 #Set parametrs for yellow filtering in HSV
@@ -136,7 +136,7 @@ def abs_sobel_thresh(img_channel, orient='x', sobel_kernel=3 , thresh_min=0, thr
 
 ```
 
-Computing the x and y gradients for the S and L image and the thresholding them accor
+Computing the x and y gradients for the S and L image and the thresholding them according the the following parameters produces the following binary mask
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxMTQyMjc4XX0=
+eyJoaXN0b3J5IjpbLTMwNDE4NjYxNV19
 -->
