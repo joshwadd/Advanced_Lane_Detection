@@ -48,12 +48,13 @@ For each calibration image the location of the chess board corners must be found
 obj_points = []
 img_points = []
 for image in calibration_image:
-	ret, corners = cv2.findChessboardCorners()
+	ret, corners = cv2.findChessboardCorners(image, (nx,ny), None)
+	if
 ```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTYzMjE2N119
+eyJoaXN0b3J5IjpbOTI2NjA1MTFdfQ==
 -->
