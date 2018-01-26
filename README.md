@@ -135,6 +135,8 @@ def abs_sobel_thresh(img_channel, orient='x', sobel_kernel=3 , thresh_min=0, thr
     return threshold_mask
 
 ```
+
+Computing the x and y gradients for the
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0MTQyMTUwXX0=
+eyJoaXN0b3J5IjpbMzM3MjEzNTEyXX0=
 -->
