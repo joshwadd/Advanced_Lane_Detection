@@ -58,7 +58,7 @@ for image in calibration_image:
 	
 ```
 
-With the list
+With the lists of
 
 
 
@@ -66,5 +66,5 @@ With the list
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTkyMzY3OF19
+eyJoaXN0b3J5IjpbMTY2NTk3MTEzMF19
 -->
