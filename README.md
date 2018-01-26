@@ -154,7 +154,7 @@ Finally the binary masks from the two tracks are combined together to produce th
 
 ## Perspective Transformation
 
-To identify and fit polynomail models of curv
+To identify and fit polynomail models of curving ane
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY0OTU3MF19
+eyJoaXN0b3J5IjpbOTU0NzU0NTI0XX0=
 -->
