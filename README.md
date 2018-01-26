@@ -49,12 +49,14 @@ obj_points = []
 img_points = []
 for image in calibration_image:
 	ret, corners = cv2.findChessboardCorners(image, (nx,ny), None)
-	if ret == T
+	if ret:
+		obj_points.append(corner_p)
+	
 ```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzA2MDk4OF19
+eyJoaXN0b3J5IjpbLTc1MDc1MjgyNl19
 -->
