@@ -36,13 +36,15 @@ OpenCV has a set of routines for the quantification and then removal of camera d
 
 ```python
 corner_points = np.zeros((nx*ny,3), np.float32)
-corner_points[:,:,2] = np.mgrid[0:]
+corner_points[:,:,2] = np.mgrid[0:nx, 0:ny].T.reshape(-1,2)
 ```
+
+For each caibration image
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTEyODYyMl19
+eyJoaXN0b3J5IjpbLTE1MDgzNTc0NjFdfQ==
 -->
