@@ -39,12 +39,12 @@ corner_points = np.zeros((nx*ny,3), np.float32)
 corner_points[:,:,2] = np.mgrid[0:nx, 0:ny].T.reshape(-1,2)
 ```
 
-For each caibration image
+For each calibration image
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDgzNTc0NjFdfQ==
+eyJoaXN0b3J5IjpbLTE1MDUxNTIzNTddfQ==
 -->
