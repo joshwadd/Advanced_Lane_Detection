@@ -154,7 +154,9 @@ Finally the binary masks from the two tracks are combined together to produce th
 
 ## Perspective Transformation
 
-To identify and fit polynomials lines curving lane lines it is useful to transform the perspective of the front facing camera to an overhead or 'birdseye' view of the lane.
+To identify and fit polynomials lines curving lanes it is useful to transform the perspective of the front facing camera to an overhead or 'birdseye' view of the lane.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDM0NTc2Ml19
+eyJoaXN0b3J5IjpbMTgwMzc2OTA4OF19
 -->
