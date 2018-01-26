@@ -95,8 +95,12 @@ colour_mask = cv2.inRange(image, thresh_min, thresh_max)/255
 return colour_mask
 ```
 
-,e
+Original unprocessed image
+
+![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/edge_detect_orig.png?raw=true)
+
+![White]
 ### Track 2: Gradient Filtering
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzE2NDE2MDFdfQ==
+eyJoaXN0b3J5IjpbMjAwMDQwNjE5Nl19
 -->
