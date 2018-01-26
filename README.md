@@ -172,9 +172,9 @@ The code to implement the perspective transform is contained within the `Perspec
 
 ## Finding the lines
 
-Having identified all possib l pixels associated with lane lines in this image and transformed into a overhead perspective, 
+Having identified all possib pixels associated with lane lines in this image and transformed into a overhead perspective, 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjIzNjkzMjldfQ==
+eyJoaXN0b3J5IjpbLTE5NDg5MzY2OV19
 -->
