@@ -143,7 +143,7 @@ Computing the x and y gradients for the S and L image and the thresholding them 
  img_grad_y = abs_sobel_thresh(img, 'y', 5, 50, 255)
 ```
 Gradient mask L channel                                                            Gradient mask S channel
-Test![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/grad_l_mask.png?raw=true)test![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/grad_s_mask.png?raw=true)
+Test![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/grad_l_mask.png?raw=true)![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/grad_s_mask.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTM4NTc4Ml19
+eyJoaXN0b3J5IjpbMTIxNDgwMjIxMl19
 -->
