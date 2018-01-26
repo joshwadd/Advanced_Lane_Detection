@@ -85,9 +85,9 @@ This is done by breaking the edge detecting process into two tracks. The first f
 
 ### Track 1: Colour Mask Filtering
 
-The image is first converted into HSV space using the open cv function
+The image is first converted into HSV space using the open cv function ``
 
 ### Track 2: Gradient Filtering
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2NzI3Mjc3XX0=
+eyJoaXN0b3J5IjpbLTEyNjczMTU3OTNdfQ==
 -->
