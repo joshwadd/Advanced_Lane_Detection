@@ -118,7 +118,12 @@ The image is then filtered by a white and yellow colour mask in HSV space accord
 
 The image is additionally converted into HLS space using the OpenCV function `cv2.cvtColor(image, cv2.COlOR_RGB2HLS)`.
 
-The gradients along the x and y components of the image are computed on both the L and S channels. The image gradient can be computed in OpenCV using the `cv2.sobel()` function. I have implemented
+The gradients along the x and y components of the image are computed on both the L and S channels. The image gradients can be computed in OpenCV using the `cv2.sobel()` function. The gradients are computed in the code using the following function
+
+```python
+
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg0MTI1NDldfQ==
+eyJoaXN0b3J5IjpbLTI1MDQ1NTk1XX0=
 -->
