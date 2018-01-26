@@ -32,12 +32,12 @@ Any camera using a lens to obtain a 2D image in a 3D environment can produce bot
 
 The distortions can be quantified and then removed by comparing multiple distorted images of a simple object with known spatial properties. A typically object used for this purpose is a chess board as it has simple shape of known size that are simple to detect due to the high black and white contrast.
 
-OpenCV has a set of routines for the quantification and then removal of camera distortion. First the coordinates of the chess board corners in 3D space are held in the variable `corner`
+OpenCV has a set of routines for the quantification and then removal of camera distortion. First the coordinates of the chess board corners in 3D space are held in the variable `corner_points`. As the chess board will remain fixed in the same location in 3D space for each image this varaibl
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjE3Mzg4MF19
+eyJoaXN0b3J5IjpbMTI0MDM5MjI3Nl19
 -->
