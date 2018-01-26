@@ -48,12 +48,13 @@ For each calibration image the location of the chess board corners must be found
 obj_points = []
 img_points = []
 
-
+for image in calibration_image:
+	ret
 ```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Nzg1NTA3NF19
+eyJoaXN0b3J5IjpbMzgzMjc5NDk0XX0=
 -->
