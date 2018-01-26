@@ -81,7 +81,7 @@ def undistort(self, image):
 
 To identify the pixels belonging to the lane lines in the image combinations of gradient thresholding and colour space threshholding techniques are used.
 
-This is done by breaking the edge detecting process into two tracks, the first track 
+This is done by breaking the edge detecting process into two tracks, the first filters the image by thresholding colours in HSL space.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzAzNzMwOTFdfQ==
+eyJoaXN0b3J5IjpbLTEzNjE4OTkyMTRdfQ==
 -->
