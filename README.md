@@ -85,9 +85,11 @@ This is done by breaking the edge detecting process into two tracks. The first f
 
 ### Track 1: Colour Mask Filtering
 
-The image is first converted into HSV space using the OpenCV function `cv2.cvtColor(image, cv2.COlOR_RGB2HSV)`
+The image is first converted into HSV space using the OpenCV function `cv2.cvtColor(image, cv2.COlOR_RGB2HSV)`.
+
+
 
 ### Track 2: Gradient Filtering
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjA1NDAxOV19
+eyJoaXN0b3J5IjpbLTE2MjY5MTg2MzldfQ==
 -->
