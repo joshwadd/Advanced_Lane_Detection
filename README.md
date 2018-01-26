@@ -87,9 +87,9 @@ This is done by breaking the edge detecting process into two tracks. The first f
 
 The image is first converted into HSV space using the OpenCV function `cv2.cvtColor(image, cv2.COlOR_RGB2HSV)`.
 
-The image can then be filtered acording to a lower and upper threshol
+The image can then be filtered acording to a lower and upper threshold
 
 ### Track 2: Gradient Filtering
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjYwMDk0MTJdfQ==
+eyJoaXN0b3J5IjpbLTE3MTg1NzE4MzZdfQ==
 -->
