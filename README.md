@@ -95,8 +95,8 @@ colour_mask = cv2.inRange(image, thresh_min, thresh_max)/255
 return colour_mask
 ```
 
-
+,e
 ### Track 2: Gradient Filtering
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQxNzI3OTRdfQ==
+eyJoaXN0b3J5IjpbLTE2NzE2NDE2MDFdfQ==
 -->
