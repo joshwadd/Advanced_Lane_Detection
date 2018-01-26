@@ -100,10 +100,10 @@ Original unprocessed image
 ![Original Image](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/edge_detect_orig.png?raw=true)
 
 
-The image is then filtered by a white and yellow colour mask in HSV space according to the following threshold parae
+The image is then filtered by a white and yellow colour mask in HSV space according to the following threshold parameters 
 
 ![White](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/yellow_filter.png?raw=true)![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/white_filter.png?raw=true)
 ### Track 2: Gradient Filtering
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU2MDAxMTFdfQ==
+eyJoaXN0b3J5IjpbNzQ3MDQ3MTcwXX0=
 -->
