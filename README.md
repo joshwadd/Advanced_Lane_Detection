@@ -45,7 +45,7 @@ For each calibration image the location of the chess board corners must be found
 
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/corner_detection.png?raw=true)
 
-This function is used on every calibration image making a list of corner coordinates for each image and also a list of the coordina 
+This function is used on every calibration image making a list of corner coordinates for each image and also a list of the coordinates  
 
 ```python
 obj_points = []
@@ -62,5 +62,5 @@ for image in calibration_image:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk4MzAyMDNdfQ==
+eyJoaXN0b3J5IjpbLTI3ODM3MjM0OV19
 -->
