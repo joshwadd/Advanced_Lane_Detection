@@ -116,7 +116,7 @@ The image is then filtered by a white and yellow colour mask in HSV space accord
 
 ### Track 2: Gradient Filtering
 
-The image is addtionaly converted into HLS space using the OpenCV function `cv2.cvtColor(image, cv2.COlOR_RGB2HLS)`.
+The image is additionally converted into HLS space using the OpenCV function `cv2.cvtColor(image, cv2.COlOR_RGB2HLS)`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk0MzkyMjBdfQ==
+eyJoaXN0b3J5IjpbMTkzODg5NjQ4N119
 -->
