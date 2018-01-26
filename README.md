@@ -61,6 +61,9 @@ for image in calibration_image:
 With the lists of object and image points it is now possible to compute the camera calibration matrix and distortion coefficients using the function `cv2.calibrateCamera()`. 
 
 
+```python
+ret, mtx, dist, rvecs, tvecs = cv2.calibrateCamera(obj_points, )
+
 ```
 
 
@@ -68,5 +71,5 @@ With the lists of object and image points it is now possible to compute the came
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1MDMxNjA2XX0=
+eyJoaXN0b3J5IjpbOTgzNDMwMjI0XX0=
 -->
