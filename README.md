@@ -43,8 +43,9 @@ corner_points[:,:,2] = np.mgrid[0:nx, 0:ny].T.reshape(-1,2)
 
 For each calibration image the location of the chess board corners must be found. This can be done with the OpenCV function `cv2.findChessboardCorners()` 
 
+![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/corner_detection.png?raw=true)
 
-and is used in the code as follows.
+
 
 ```python
 obj_points = []
@@ -61,5 +62,5 @@ for image in calibration_image:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTY4OTgwOV19
+eyJoaXN0b3J5IjpbMTk5OTQ5MzQxN119
 -->
