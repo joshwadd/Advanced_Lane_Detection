@@ -121,9 +121,20 @@ The image is additionally converted into HLS space using the OpenCV function `cv
 The gradients along the x and y components of the image are computed on both the L and S channels. The image gradients can be computed in OpenCV using the `cv2.sobel()` function. The gradients are computed in the code using the following function
 
 ```python
+#Calculate the directional gradient
+def abs_sobel_thresh(img_channel, orient='x', sobel_kernel=3 , thresh_min=0, thresh_max=255):
+    if orient == 'x':
+        sobel = cv2.Sobel(img_channel, cv2.CV_64F, 1, 0, ksize=sobel_kernel)
+    else:
+        sobel = cv2.Sobel(img_channel, cv2.CV_64F, 0, 1, ksize=sobel_kernel)
 
+    abs_sobel = np.absolute(sobel)
+    binary_output = np.uint8(255*abs_sobel/np.max(abs_sobel))
+    threshold_mask = np.zeros_like(binary_output)
+    threshold_mask[(binary_output >= thresh_min) & (binary_output <= thresh_max)] = 1
+    return threshold_mask
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDQ1NTk1XX0=
+eyJoaXN0b3J5IjpbOTI0MTQyMTUwXX0=
 -->
