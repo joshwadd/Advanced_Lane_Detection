@@ -76,6 +76,8 @@ def undistort(self, image):
  
 
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/standard.png?raw=true)![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/corrected.png?raw=true)
+
+## Edge Detection
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzUyOTUyNV19
+eyJoaXN0b3J5IjpbNjA4MDU5MTM3XX0=
 -->
