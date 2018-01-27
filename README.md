@@ -178,7 +178,7 @@ To do this we must first blindly search the image using a sliding window method 
 
 ### Sliding Window Search:
 
-To find the pixels 
+To find the all image
 
 
 
@@ -188,5 +188,5 @@ To find the pixels
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzAxNjU5OF19
+eyJoaXN0b3J5IjpbMTQ4MjAwMzUwN119
 -->
