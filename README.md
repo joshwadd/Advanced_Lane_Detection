@@ -178,7 +178,7 @@ To do this we must first blindly search the image using a sliding window method 
 
 ### Sliding Window Search:
 
-To find the all the pixels associated with a lane lines a sliding window is transversed along the height of the image 
+To find the all the pixels associated with a lane lines a sliding window is transversed along the height of the image so that it captures all of the
 
 
 
@@ -188,5 +188,5 @@ To find the all the pixels associated with a lane lines a sliding window is tran
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4OTE1ODA4XX0=
+eyJoaXN0b3J5IjpbLTExNzgzNzQ4MjJdfQ==
 -->
