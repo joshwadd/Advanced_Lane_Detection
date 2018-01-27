@@ -176,11 +176,11 @@ Having identified all possible pixels that could potentially be associated with 
 
 To do this we must first blindly search the image using a sliding window method to find the left and right line pixels. For video data streams the left and right lane pixels can be found by searching in the region close to lines identified in previous frames (this is a valid approach assuming the changes in the lane properties between video frames is small).
 
-### Sliding window
+### Sliding Window Search
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzUxNjAyNF19
+eyJoaXN0b3J5IjpbMjA2MTM2NTQ5Ml19
 -->
