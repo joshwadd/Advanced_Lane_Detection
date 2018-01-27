@@ -183,10 +183,8 @@ To find the all the pixels associated with a lane lines a series of sliding wind
 ```python
  def initalise_windows(self):
         leftx = np.int(self.w/4)
-        rightx = np.int(3*(self.w/4))
-        
-        for i in range(self.nwindows):
-            
+        rightx = np.int(3*(self.w/4))   
+        for i in range(self.nwindows)
             left_window = Window(self.h - (i+1)*self.window_height, 
                                  self.h - i*self.window_height, 
                                  leftx, self.margin, self.tol)         
@@ -206,5 +204,5 @@ To find the all the pixels associated with a lane lines a series of sliding wind
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0MTYzNzY4XX0=
+eyJoaXN0b3J5IjpbMzA1MzMxNDM0XX0=
 -->
