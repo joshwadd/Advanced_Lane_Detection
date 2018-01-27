@@ -178,7 +178,7 @@ To do this we must first blindly search the image using a sliding window method 
 
 ### Sliding Window Search:
 
-To find the all image
+To find the all the pixels associated with a lane lin
 
 
 
@@ -188,5 +188,5 @@ To find the all image
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjAwMzUwN119
+eyJoaXN0b3J5IjpbMTIzNzc3NzQwMF19
 -->
