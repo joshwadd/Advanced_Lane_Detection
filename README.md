@@ -178,7 +178,26 @@ To do this we must first blindly search the image using a sliding window method 
 
 ### Sliding Window Search:
 
-To find the all the pixels associated with a lane lines a series of sliding windows are transversed along the height of the image so that it captures all of the pixels belonging to the lane within the windows. Each window is represented by the `Window` class found in `window.py`. The left and right lane windows are initialised in upon construction of the `LaneDectection` object
+To find the all the pixels associated with a lane lines a series of sliding windows are transversed along the height of the image so that it captures all of the pixels belonging to the lane within the windows. Each window is represented by the `Window` class found in `window.py`. The left and right lane windows are initialised in upon construction of the `LaneDectection` object via the following initialisation routine.
+
+```python
+ def initalise_windows(self):
+  
+        leftx = np.int(self.w/4)
+        rightx = np.int(3*(self.w/4))
+        
+        for i in range(self.nwindows):
+            
+            left_window = Window(self.h - (i+1)*self.window_height, 
+                                 self.h - i*self.window_height, 
+                                 leftx, self.margin, self.tol)         
+            right_window = Window(self.h - (i+1)*self.window_height, 
+                                 self.h - i*self.window_height, 
+                                 rightx, self.margin, self.tol)
+            
+            self.left_window.append(left_window)
+            self.right_window.append(right_window)
+```
 
 
 
@@ -188,5 +207,5 @@ To find the all the pixels associated with a lane lines a series of sliding wind
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxMDc1Mjg0XX0=
+eyJoaXN0b3J5IjpbMTM0MzU5MDM3NF19
 -->
