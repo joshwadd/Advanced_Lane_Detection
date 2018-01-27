@@ -196,7 +196,7 @@ To find the all the pixels associated with a lane lines a series of sliding wind
             self.right_window.append(right_window)
 ```
 
-In order to fit these windows to the correct positions in the image, we first take a histogram 
+In order to fit these windows to the correct positions in the image, we first take a histogram of the lower half of the binary image mask.
 
 ### Previous Region Search:
 
@@ -204,5 +204,5 @@ In order to fit these windows to the correct positions in the image, we first ta
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzODQzNDEyXX0=
+eyJoaXN0b3J5IjpbLTM0MzIwMTQwXX0=
 -->
