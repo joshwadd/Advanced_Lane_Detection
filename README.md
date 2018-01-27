@@ -178,6 +178,8 @@ To do this we must first blindly search the image using a sliding window method 
 
 ### Sliding Window Search:
 
+To find the pixels 
+
 
 
 ### Previous Region Search:
@@ -186,5 +188,5 @@ To do this we must first blindly search the image using a sliding window method 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTkzNDU5Nl19
+eyJoaXN0b3J5IjpbLTI1NzAxNjU5OF19
 -->
