@@ -174,9 +174,9 @@ The code to implement the perspective transform is contained within the `Perspec
 
 Having identified all possible pixels that could potentially be associated with lane lines in this image and transformed into a overhead perspective, the task is now to explicitly decide which pixels do belong to a lane line and which lane line they belong to. 
 
-To do this we must first blindly search the image using a sliding window method to find the left and right line pixels. 
+To do this we must first blindly search the image using a sliding window method to find the left and right line pixels. For video data streams
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDgxNzU3ODNdfQ==
+eyJoaXN0b3J5IjpbLTMxNTY4ODAwXX0=
 -->
