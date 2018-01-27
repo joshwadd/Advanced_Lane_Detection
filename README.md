@@ -178,11 +178,11 @@ To do this we must first blindly search the image using a sliding window method 
 
 ### Sliding Window Search:
 
-
+### Previous Region Search:
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzODAzMzE0XX0=
+eyJoaXN0b3J5IjpbMTEwNzY0OTc2MF19
 -->
