@@ -215,7 +215,7 @@ With identified y and x points for for each line found using either the window o
 
 Two 
 
-instanc
+i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjU2MzYwNDJdfQ==
+eyJoaXN0b3J5IjpbMzQ0ODI4NDc3XX0=
 -->
