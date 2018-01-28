@@ -211,7 +211,9 @@ If the lane lines have been detected in previous video frames, searching the ima
 
 ## Fit Polynomial
 
+With the y and x locations for each of th
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0MzI3OTI5XX0=
+eyJoaXN0b3J5IjpbNDg0ODY0MzE5XX0=
 -->
