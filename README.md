@@ -211,9 +211,9 @@ If the lane lines have been detected in previous video frames, searching the ima
 
 ## Fit Polynomial
 
-With the y and x locations for each of the pixels for each line found using either the window or region search procedures
+With the y and x locations for each of the pixels for each line found using either the window or region search procedures, 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTEzNjYxNThdfQ==
+eyJoaXN0b3J5IjpbMTA1MDgwNDczNF19
 -->
