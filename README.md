@@ -209,6 +209,7 @@ If the lane lines have been detected in previous video frames, searching the ima
 
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/regionsearch.png?raw=true)
 
+## Fit Polynomial
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxNDkwMDg2XX0=
+eyJoaXN0b3J5IjpbNzIwOTQ2MjA1XX0=
 -->
