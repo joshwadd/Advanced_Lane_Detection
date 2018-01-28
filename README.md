@@ -205,10 +205,10 @@ From the first window, a sliding window placed along the centres of each line fo
 
 ### Previous Region Search:
 
-If the lane lines have been detected in previous video frames, searching the image blindly is an unnecessary computational expense. It is instead more effective to search the region around the lines idenidied in the previ
+If the lane lines have been detected in previous video frames, searching the image blindly is an unnecessary computational expense. It is instead more effective to search the region around the lines idenidied in the previous 
 
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/regionsearch.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkzMTM5MjNdfQ==
+eyJoaXN0b3J5IjpbNzc5MjM2MTM4XX0=
 -->
