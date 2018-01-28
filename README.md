@@ -211,9 +211,11 @@ If the lane lines have been detected in previous video frames, searching the ima
 
 ## Fit Polynomial
 
-With identified y and x points for for each line found using either the window or region search procedures, a second order (quadratic) uni-variate polynomial model can be fit though these points. All of the attributes, parameters and computational methods 
+With identified y and x points for for each line found using either the window or region search procedures, a second order (quadratic) uni-variate polynomial model can be fit though these points. All of the attributes, parameters and computational methods associated with the two lines fit for the two lanes are contained within the `Line` class.
+
+Two 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI1NTY2OV19
+eyJoaXN0b3J5IjpbLTIwNTY3NTQ5MzBdfQ==
 -->
