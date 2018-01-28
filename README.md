@@ -198,7 +198,7 @@ To find the all the pixels associated with a lane lines a series of sliding wind
 
 In order to fit these windows to the correct x-positions in the image, we first take a histogram of pixel count in the lower half of the binary image mask against image column. This should give two peaks in the pixel count histogram that can give the x position to fit the first window of each line.
 
-From the first window, a sliding window placed along the centres of each line following up to the top of the frame. The full implementation of this is found in the ` fit_windows(self, image)` method within the `LaneDetection` class. The result of fitting this
+From the first window, a sliding window placed along the centres of each line following up to the top of the frame. The full implementation of this is found in the ` fit_windows(self, image)` method within the `LaneDetection` class. The result of fitting a sliding window search to the binary image mask is shown below.
 
 
 ### Previous Region Search:
@@ -207,5 +207,5 @@ From the first window, a sliding window placed along the centres of each line fo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDU5MzI5MF19
+eyJoaXN0b3J5IjpbNzMyMDM3NDExXX0=
 -->
