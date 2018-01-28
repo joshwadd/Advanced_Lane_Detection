@@ -206,8 +206,8 @@ From the first window, a sliding window placed along the centres of each line fo
 ### Previous Region Search:
 
 
-![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/region_search.png?raw=true)
+![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/regionsearch.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjMyMjE3Nl19
+eyJoaXN0b3J5IjpbMTUxOTI3NDQyOV19
 -->
