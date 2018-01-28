@@ -200,6 +200,8 @@ In order to fit these windows to the correct x-positions in the image, we first 
 
 From the first window, a sliding window placed along the centres of each line following up to the top of the frame. The full implementation of this is found in the ` fit_windows(self, image)` method within the `LaneDetection` class. The result of fitting a sliding window search to the binary image mask is shown below.
 
+![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/Sliding_window.png?raw=true)
+
 
 ### Previous Region Search:
 
@@ -207,5 +209,5 @@ From the first window, a sliding window placed along the centres of each line fo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyMDM3NDExXX0=
+eyJoaXN0b3J5IjpbMjA1Mzk4MTU0MF19
 -->
