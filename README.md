@@ -220,12 +220,13 @@ Two instances of the `Line` class are initialised to contain the left and right 
 
 ## Measuring lane parameters 
 
-
+A second order uni-variate polynomial model of the form shown below was fitted to each lane line
 
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/poly_model.gif?raw=true)
 
 
+
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/radius_curvature.gif?raw=true) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzIyOTQ0MV19
+eyJoaXN0b3J5IjpbMjA1NTc1Njk3N119
 -->
