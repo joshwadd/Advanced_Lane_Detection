@@ -276,7 +276,10 @@ This processing pipeline for lane detection is a good example of how a range of 
 
 Many aspects of the pipeline (particularly the lane edge detection, colour and gradient parameters) had to be hand tuned to a small set of idealised images and would not be expected to be robust to many scenarios encounter by the vehicle. Examples of these would be obstruction by other road users, adverse lighting conditions and high road gradients such as hills.
 
-Many
+I will be making many changes to the video processing pipeline in future releases to this more robust. These will include
+
+- asdadsas
+-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0OTQ2NDQ0XX0=
+eyJoaXN0b3J5IjpbLTE1MDAyNTYxNTJdfQ==
 -->
