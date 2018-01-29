@@ -220,7 +220,7 @@ Two instances of the `Line` class are initialised to contain the left and right 
 
 ## Measuring lane parameters 
 
-Using the second order polynomial model fitted to the lane lines 
+Using the second order polynomial model fitted to the lane lines it is 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMTA0XX0=
+eyJoaXN0b3J5IjpbLTEwODQ4NTA4ODFdfQ==
 -->
