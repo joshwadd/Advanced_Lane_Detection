@@ -278,7 +278,7 @@ Many aspects of the pipeline (particularly the lane edge detection, colour and g
 
 I will be making many changes to the video processing pipeline in future releases to this more robust. These will include
 
-- Line valida
+- Line validation 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTExMDA5NThdfQ==
+eyJoaXN0b3J5IjpbMTY3ODcyOTM4Ml19
 -->
