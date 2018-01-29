@@ -272,7 +272,7 @@ The debug video of the lane line processing pipeline can be found [here](https:/
 
 ## Discussion and Future Modifications
 
-
+This proce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTQxOTg5NV19
+eyJoaXN0b3J5IjpbMzA1MTQzNDAyXX0=
 -->
