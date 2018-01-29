@@ -220,6 +220,8 @@ Two instances of the `Line` class are initialised to contain the left and right 
 
 ## Measuring lane parameters 
 
+### Radius of curvature
+
 A second order uni-variate polynomial model of the form shown below was fitted to each lane line
 
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/poly_model.gif?raw=true)
@@ -243,5 +245,5 @@ def raidus_of_curvature(self):
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MjM0MzUzXX0=
+eyJoaXN0b3J5IjpbMTUxMjMwMzE1Ml19
 -->
