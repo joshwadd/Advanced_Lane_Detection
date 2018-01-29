@@ -276,11 +276,11 @@ This processing pipeline for lane detection is a good example of how a range of 
 
 Many aspects of the pipeline (particularly the lane edge detection, colour and gradient parameters) had to be hand tuned to a small set of idealised images and would not be expected to be robust to many scenarios encounter by the vehicle. Examples of these would be obstruction by other road users, adverse lighting conditions and high road gradients such as hills.
 
-I will be making many changes to the video processing pipeline in future releases to this more robust. These will include
+I will be making many changes to the video processing pipeline in future releases to make this pipeline more robust. These will include
 
 - **Line validation class**  : Bad model fits can currently be caused by bad weather and road conditions. These bad fits can further corrupt the moving average and line approximations in future frames. I will design a class responsible for checking the validity of fitted lines with respect to each other before they are to be accepted by the line class.
 
 - **Weighted moving average** : Currently every model fit is weighted equally when making a moving average approximation. This is clearly not desirable as some line model fits will be made under move certain data then other. This should be taken into consideration when making an average over previous frames.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA1Mjk0OTNdfQ==
+eyJoaXN0b3J5IjpbLTE2ODEwNzE3NDVdfQ==
 -->
