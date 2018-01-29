@@ -228,7 +228,9 @@ The radius of curvature of a particular point along a curve can be computed usin
 
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/radius_curvature.gif?raw=true) 
 
-The radius of cura
+The radius of curvature of our fitted quadratic model is therefore given by
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxODI2MDk5XX0=
+eyJoaXN0b3J5IjpbLTEwNTc0OTM4NzVdfQ==
 -->
