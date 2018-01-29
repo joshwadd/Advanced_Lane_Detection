@@ -272,7 +272,7 @@ The debug video of the lane line processing pipeline can be found [here](https:/
 
 ## Discussion and Future Modifications
 
-This processing pipeline for lane detection is a good example of how a range of computer vision tools can be combined in sequence to achieve 
+This processing pipeline for lane detection is a good example of how a range of computer vision tools can be combined in sequence for visual perception in an autonomous vechicle. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDI4NDA3NF19
+eyJoaXN0b3J5IjpbLTE5ODU1ODA4NjVdfQ==
 -->
