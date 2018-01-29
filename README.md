@@ -220,7 +220,7 @@ Two instances of the `Line` class are initialised to contain the left and right 
 
 ## Measuring lane parameters 
 
-Usin
+Using the second 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzI3MDU5NF19
+eyJoaXN0b3J5IjpbLTIxNDQ5MzMzNjJdfQ==
 -->
