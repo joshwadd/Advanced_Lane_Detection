@@ -1,5 +1,12 @@
 # Advanced Lane Detection
 
+
+
+[![png](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/thumbnail.png?raw=true)](https://youtu.be/gcRVc0u5Qr0)
+[Video Link](https://youtu.be/gcRVc0u5Qr0)
+
+
+
 ## Project Overview
 
 This project builds and algorithmic pipeline of computer vision techniques to detect road lanes from the front facing camera on an autonomous car, and the identify the properties of lane required for then controlling the car. The algorithmic pipeline is implemented in Python using OpenCV and is made up of the following files.
@@ -261,5 +268,5 @@ def camera_distance(self):
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQxODY0NzBdfQ==
+eyJoaXN0b3J5IjpbLTI2OTcyODQ1NF19
 -->
