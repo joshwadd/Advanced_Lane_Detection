@@ -272,7 +272,7 @@ The debug video of the lane line processing pipeline can be found [here](https:/
 
 ## Discussion and Future Modifications
 
-This processing pipeline for lane detection i
+This processing pipeline for lane detection is a good example of how a range of computer vision tools can be combined in sequence to achieve 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTIzOTkzXX0=
+eyJoaXN0b3J5IjpbMTE0MDI4NDA3NF19
 -->
