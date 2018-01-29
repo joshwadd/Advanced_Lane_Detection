@@ -278,7 +278,7 @@ Many aspects of the pipeline (particularly the lane edge detection, colour and g
 
 I will be making many changes to the video processing pipeline in future releases to this more robust. These will include
 
-- **Line validation class**  : In case of bad 
+- **Line validation class**  : Bad model fits can currently be caused by poor edge detection u
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY5NTI0NTldfQ==
+eyJoaXN0b3J5IjpbLTE5MDYzODkyNTRdfQ==
 -->
