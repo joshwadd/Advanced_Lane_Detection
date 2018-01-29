@@ -215,7 +215,7 @@ With identified y and x points for for each line found using either the window o
 
 Two instances of the `Line` class are initialised to contain the left and right lane lines within the `LaneDetection` class. The `compute_line(self, y=None, x=None)` method within this class takes a list of the y and x points, fits the model, and then stores the coefficients within the class. The class stores the coefficients from the last 10 lines fitted. This allows the class to use a moving average over the last 10 video frames making the process more robust to noisy and distortion in video data
 
-
+![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/fitted_lines_win.png?raw=true)![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/fitted_lines_reg.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzkxODIzMl19
+eyJoaXN0b3J5IjpbMTE5OTc4Mjk3MF19
 -->
