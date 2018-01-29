@@ -266,9 +266,9 @@ def camera_distance(self):
 
 ## Video Data
 
-The image processing pipeline can be applied to a video data stream 
+The image processing pipeline can be applied to a video stream of a sequence of frames. The line class keep
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMyNzgxNzhdfQ==
+eyJoaXN0b3J5IjpbOTk5MDg2MjEyXX0=
 -->
