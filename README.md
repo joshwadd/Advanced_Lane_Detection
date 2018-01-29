@@ -278,7 +278,7 @@ Many aspects of the pipeline (particularly the lane edge detection, colour and g
 
 I will be making many changes to the video processing pipeline in future releases to this more robust. These will include
 
-- **Line validation class**  : Bad model fits can currently be caused by bad weather and road conditions. These bad fits can further corrupt the moving average and future line
+- **Line validation class**  : Bad model fits can currently be caused by bad weather and road conditions. These bad fits can further corrupt the moving average and line approximations in future frames. I will design a class responsible for checking the validity of fitted lines with respect to each other
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTI5MjA4OF19
+eyJoaXN0b3J5IjpbMTk5NTE1MDkzXX0=
 -->
