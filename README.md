@@ -220,7 +220,7 @@ Two instances of the `Line` class are initialised to contain the left and right 
 
 ## Measuring lane parameters 
 
-Using the second order polynomial model fitted to the lane lines it is possible to compute the radius of curviture 
+Using the second order polynomial model fitted to the lane lines it is possible to compute the radius of curvature of of the line. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5NzE3MDIxXX0=
+eyJoaXN0b3J5IjpbMjE1ODAzMjk2XX0=
 -->
