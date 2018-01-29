@@ -244,6 +244,8 @@ def raidus_of_curvature(self):
 ```
 
 ###  Vehicle position
+
+The two fitted quadratic lines can also be used to calculate the vichles position in the lane.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjkyODc4MzZdfQ==
+eyJoaXN0b3J5IjpbLTIwNTQ4MDc3MjZdfQ==
 -->
