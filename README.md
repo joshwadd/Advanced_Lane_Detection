@@ -243,9 +243,7 @@ def raidus_of_curvature(self):
 	return ((1 + (2*fit_cr[0]*720*self.ym_per_pix + fit_cr[1])**2)**1.5)/ np.absolute(2*fit_cr[0])
 ```
 
-### Distance to centre 
-
-
+###  Vehicle position
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0MjcwMzg2XX0=
+eyJoaXN0b3J5IjpbLTE4MjkyODc4MzZdfQ==
 -->
