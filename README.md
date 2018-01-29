@@ -266,9 +266,9 @@ def camera_distance(self):
 
 ## Video Data
 
-The image processing pipeline can be applied to a video stream of a sequence of frames. The line class keeps and approximation of the lane boundaries taken over the last 10 frames to increase the robustness to bad lane detection in the pipeline. The lane pixel search initially uses a windowed search, but then moves to a search region around previous 
+The image processing pipeline can be applied to a video stream of a sequence of frames. The line class keeps and approximation of the lane boundaries taken over the last 10 frames to increase the robustness to bad lane detection in the pipeline. The lane pixel search initially uses a windowed search, but then moves to a search region around previously det
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgxNDg2NDNdfQ==
+eyJoaXN0b3J5IjpbODA5NjI0ODc5XX0=
 -->
