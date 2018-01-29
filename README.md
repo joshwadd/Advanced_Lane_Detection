@@ -253,8 +253,8 @@ def camera_distance(self):
 	#distance in meter of the vechicle center from the line
 	y, x = self.generate_line()
 	x_bottom = x[self.h-1]
-	return ((1 + )
+	return return np.absolute((self.w //2 -  x_bottom) * self.xm_per_pix)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTEzMjc2NTRdfQ==
+eyJoaXN0b3J5IjpbLTEwNDE5NzE1NV19
 -->
