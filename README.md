@@ -274,7 +274,9 @@ The debug video of the lane line processing pipeline can be found [here](https:/
 
 This processing pipeline for lane detection is a good example of how a range of computer vision tools can be combined in sequence for visual perception in an autonomous vehicle. However this is clearly a naive method to achieve such a task.
 
-Many aspects of the pipeline (particularly the lane edge detection, colour and gradient parameters) had to be hand tuned to a small set of idealised images and would not be expected to be robust to many scenarios encounter by the vehicle. Examples of these would be obstruction by other road users, adverse lighting and weather conditions
+Many aspects of the pipeline (particularly the lane edge detection, colour and gradient parameters) had to be hand tuned to a small set of idealised images and would not be expected to be robust to many scenarios encounter by the vehicle. Examples of these would be obstruction by other road users, adverse lighting conditions and high road gradients such as hills.
+
+This is v
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg2NDA2NDldfQ==
+eyJoaXN0b3J5IjpbLTY5MDE4ODI0OV19
 -->
