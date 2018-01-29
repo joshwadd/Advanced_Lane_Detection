@@ -272,7 +272,7 @@ The debug video of the lane line processing pipeline can be found [here](https:/
 
 ## Discussion and Future Modifications
 
-This processing pipeline for lane detecti
+This processing pipeline for lane detection i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTMzOTU4M119
+eyJoaXN0b3J5IjpbMTQ4MTIzOTkzXX0=
 -->
