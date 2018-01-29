@@ -234,9 +234,11 @@ The radius of curvature of our fitted quadratic model is therefore given by
 
 It is possible to choose any y value of the image to compute the radius of curvature, but it is most useful to compute it closest to the vehicle at the bottom of the image.
 
-```py
+```python
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODYyMzI5MjNdfQ==
+eyJoaXN0b3J5IjpbMTM5Njg1MTM0XX0=
 -->
