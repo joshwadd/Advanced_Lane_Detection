@@ -236,17 +236,12 @@ It is possible to choose any y value of the image to compute the radius of curva
 
 ```python
 def raidus_of_curvature(self):
- def radius_of_curvature(self):
-
-
-        y, fitx = self.generate_line()
-
-        fit_cr = np.polyfit(y*self.ym_per_pix, fitx*self.xm_per_pix,2)
-
-        return ((1 + (2*fit_cr[0]*720*self.ym_per_pix + fit_cr[1])**2)**1.5)/ np.absolute(2*fit_cr[0])
+	y, fitx = self.generate_line()
+	fit_cr = np.polyfit(y*self.ym_per_pix, fitx*self.xm_per_pix,2)
+	return ((1 + (2*fit_cr[0]*720*self.ym_per_pix + fit_cr[1])**2)**1.5)/ np.absolute(2*fit_cr[0])
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTA0MDU5N119
+eyJoaXN0b3J5IjpbMzE1MjM0MzUzXX0=
 -->
