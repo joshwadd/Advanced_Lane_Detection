@@ -224,9 +224,9 @@ A second order uni-variate polynomial model of the form shown below was fitted t
 
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/poly_model.gif?raw=true)
 
-The radius of curvature
+The radius of curvature of a patr
 
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/radius_curvature.gif?raw=true) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODgyNTIzNF19
+eyJoaXN0b3J5IjpbLTEyNjI4NjMxXX0=
 -->
