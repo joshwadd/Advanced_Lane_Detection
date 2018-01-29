@@ -278,8 +278,7 @@ Many aspects of the pipeline (particularly the lane edge detection, colour and g
 
 I will be making many changes to the video processing pipeline in future releases to this more robust. These will include
 
-- asdadsas
--
+- a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDAyNTYxNTJdfQ==
+eyJoaXN0b3J5IjpbLTE2MzcwMDkzNThdfQ==
 -->
