@@ -231,6 +231,8 @@ The radius of curvature of a particular point along a curve can be computed usin
 The radius of curvature of our fitted quadratic model is therefore given by
 
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/radius_quadratic.gif?raw=true)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5NTgyNDQzXX0=
+eyJoaXN0b3J5IjpbLTEyOTUxNjMwNjVdfQ==
 -->
