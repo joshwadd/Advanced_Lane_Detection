@@ -2,8 +2,8 @@
 
 
 
-[![png](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/thumbnail.png?raw=true)](https://youtu.be/gcRVc0u5Qr0)
-[Video Link](https://youtu.be/gcRVc0u5Qr0)
+[![png](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/thumbnail.png?raw=true)](https://www.youtube.com/watch?v=OrnYWgps33c&feature=youtu.be)
+[Video Link](https://www.youtube.com/watch?v=OrnYWgps33c&feature=youtu.be)
 
 
 
@@ -268,5 +268,5 @@ def camera_distance(self):
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTcyODQ1NF19
+eyJoaXN0b3J5IjpbLTE0MDM5MDcxNDRdfQ==
 -->
