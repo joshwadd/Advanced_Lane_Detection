@@ -250,9 +250,9 @@ The two fitted quadratic lines can also be used to calculate the vehicles positi
 ```python
 
 def camera_distance(self):
-	#distnace in meter of the vech
+	#distnace in meter of the vechicle
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Nzk1MzUxOF19
+eyJoaXN0b3J5IjpbMTQyMTA3NDU2MV19
 -->
