@@ -268,9 +268,9 @@ def camera_distance(self):
 
 The image processing pipeline can be applied to a video stream of a sequence of frames. The line class keeps and approximation of the lane boundaries taken over the last 10 frames to increase the robustness to bad lane detection in the pipeline. The lane pixel search initially uses a windowed search, but then moves to a search region around previously detect line location. The implementation detail of the video pipeline processing is found in the `process_frame` method in the `LaneDetection` class.
 
-The debug video of the lane line processing pipeline can be found 
+The debug video of the lane line processing pipeline can be found [here](https://www.youtube.com/watch?v=OrnYWgps33c&feature=youtu.be).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg5NzE5NjhdfQ==
+eyJoaXN0b3J5IjpbLTI0NTU4OTc2MV19
 -->
