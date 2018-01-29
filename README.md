@@ -227,6 +227,8 @@ A second order uni-variate polynomial model of the form shown below was fitted t
 The radius of curvature of a particular point along a curve can be computed using the following 
 
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/radius_curvature.gif?raw=true) 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0MTQ1NTA2XX0=
+eyJoaXN0b3J5IjpbLTIyNjE0OTgyNl19
 -->
