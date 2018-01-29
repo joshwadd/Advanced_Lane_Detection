@@ -245,7 +245,7 @@ def raidus_of_curvature(self):
 
 ###  Vehicle position
 
-The two fitted quadratic lines can also be used to calculate the vehicles position in the lane. Assuming that the camera (and thus vehicle centre) is located at the midpoint of the image width,  it is possible to ca
+The two fitted quadratic lines can also be used to calculate the vehicles position in the lane. Assuming that the camera (and thus vehicle centre) is located at the midpoint of the image width,  it is possible to calculate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMTE2Mjc4XX0=
+eyJoaXN0b3J5IjpbLTE4MDA0NTk5MF19
 -->
