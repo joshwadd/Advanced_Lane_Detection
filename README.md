@@ -232,7 +232,7 @@ The radius of curvature of our fitted quadratic model is therefore given by
 
 ![](https://github.com/joshwadd/Advanced_Lane_Detection/blob/master/output_images/radius_quadratic.gif?raw=true)
 
-It is possible to choose any y value of the image to compute the radius of curvature, but it is most useful to compute it closest to the vehicle at the bo
+It is possible to choose any y value of the image to compute the radius of curvature, but it is most useful to compute it closest to the vehicle at the bottom 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE0ODQyNDFdfQ==
+eyJoaXN0b3J5IjpbMTc5MTIzMzk1XX0=
 -->
