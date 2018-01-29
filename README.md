@@ -270,7 +270,7 @@ The image processing pipeline can be applied to a video stream of a sequence of 
 
 The debug video of the lane line processing pipeline can be found [here](https://www.youtube.com/watch?v=OrnYWgps33c&feature=youtu.be).
 
-
+## Discuss and Future Modifications
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTY4MDcyNDJdfQ==
+eyJoaXN0b3J5IjpbMzY3NDAyMTcxXX0=
 -->
